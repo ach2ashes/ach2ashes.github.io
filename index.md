@@ -66,7 +66,7 @@ In this project i used Akka Streams in Scala to show logs on visited websites wh
 ### Anime graphs
 A project to shed light to different networks that could form in the anime industry
 <!-- <img src="<img src="images/Screenshot 2023-12-12 090908.png?raw=true" /> -->
-<img src="images/Screenshot 2023-12-12 090908.png?raw=true" />
+<img src="images/Screenshot 2023-12-12 093635.png?raw=true" />
 
 [![](https://img.shields.io/badge/R-white?logo=R)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
