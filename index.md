@@ -55,8 +55,8 @@ In this project, i used Selenium to send spontaneous applications for my first i
 ### Streamed wrbsite logs
 In this project i used Akka Streams in Scala to show logs on visited websites which are stramed in real time 
 
-<img src="images/charts.pdf?raw=true"/>
-
+<img src="images/Screenshot 2023-12-12 095339.png?raw=true"/>
+<img src="images/Screenshot 2023-12-12 095312.png?raw=true"/>
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/LIME-white?logo=LIME)](#) [![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#)
 
 [Repo](https://github.com/ach2ashes/Scala-akka-stream-project)
