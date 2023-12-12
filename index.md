@@ -21,7 +21,7 @@ create a machine learning model to predict the outcome of this years competition
 
 
 
-Repo (https://github.com/ach2ashes/Data-Mining)
+[Repo](https://github.com/ach2ashes/Data-Mining)
 
 ---
 
