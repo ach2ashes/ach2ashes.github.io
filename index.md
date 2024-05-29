@@ -2,6 +2,10 @@
 
 ---
 
+### Product reviews Sentiment analysis pipeline 
+building a pipeline with a flask webapp , streaming with kafka , sentiment analysis with spark , string in cassandra and archiving in aws S3.
+[Repo](https://github.com/ach2ashes/sentiment-analysis-pipelinee)
+
 ### QuizGPT
 
 Leveraging OpenAI API to build a tool to automatically create and grade quizzes on google forms
