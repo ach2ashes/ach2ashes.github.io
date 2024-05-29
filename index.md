@@ -4,6 +4,10 @@
 
 ### Product reviews Sentiment analysis pipeline 
 building a pipeline with a flask webapp , streaming with kafka , sentiment analysis with spark , string in cassandra and archiving in aws S3.
+
+
+
+
 [Repo](https://github.com/ach2ashes/sentiment-analysis-pipelinee)
 
 ### QuizGPT
