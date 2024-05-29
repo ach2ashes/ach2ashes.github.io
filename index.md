@@ -51,7 +51,7 @@ In a group project that aims on developing a wearable health device , i was in c
 ---
 
 ### Automatic internship application:
-In this project, i used Selenium to send spontaneous applications for my first internship , based on a google sheet with some company emails
+In this project, i used Selenium to mass send spontaneous applications for my first internship , based on a google sheet with some company emails
 
 
 
