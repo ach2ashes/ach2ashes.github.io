@@ -1,7 +1,10 @@
-## Selected projects in data science, machine learning and NLP
+## Selected projects in data science, machine learning and AI
 
 ---
-
+### Research project : Speeding up multiresolution satellite image deep learning applied to forest fire detection.
+The project goal was to leverage the pyramidal resolution of the satellite images to build specialized models (Unets in our case) for each resolution and only upping the resolution for regions of interest.  
+### Rag based chatbot for customer FAQ for an ai company(Wok.ai)
+Using langchain powered with GPT-4o to buid a chatbot. It was powered with a full web scrape of the website content. Multiple challeges were addressed like context management, adding files to the conversation or the knowledge base etc... 
 ### Product reviews Sentiment analysis pipeline 
 building a pipeline with a flask webapp , streaming with kafka , sentiment analysis with spark , string in cassandra and archiving in aws S3.
 
