@@ -1,11 +1,11 @@
-title: Achraf Sbai # your name (or website title) here
-logo: "/images/1699023785536.jpeg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: Achraf Sbai
+logo: "/images/1699023785536.jpeg?raw=true"
+description: >
   Data science student @Telecom Paris | AI engineering intern @SFR
   <br><br>
-  Passionate about making data at the heart of evrything i do.
+  Passionate about making data at the heart of everything I do.
   <br><br>
-  <a href="https://www.linkedin.com/in/achraf-sbai-1208541b5/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/achraf-sbai-1208541b5/">View My LinkedIn Profile</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
